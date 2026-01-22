@@ -5,10 +5,10 @@ shortname: dnguyen
 permalink: /postdocs/postdoc-duongnguyen.html
 postdoc-name: Duong Nguyen
 title: Post-doctoral researcher
-active: False
+active: True
 dates:
   start: 2025-01-01
-  end: 2025-12-31
+  end: 2026-12-31
 photo: /assets/images/team/Duong_Nguyen.jpg
 institution: University at Buffalo
 e-mail: duongngu@buffalo.edu

@@ -13,6 +13,7 @@ dates:
 photo: /assets/images/team/Kelci-Mohrman.png
 institution: University of Florida
 e-mail: k.mohrman@ufl.edu
+finalreport: /assets/pdfs/KelciMohrman_RD_FinalReport.pdf
 project_goal: >
     <br>
     <b>2024-2025: Benchmarking current capabilities and exploring the acceleration of columnar processing via heterogeneous architectures </b>

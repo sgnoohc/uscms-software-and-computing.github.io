@@ -19,6 +19,7 @@ mentors: >
   - Andrew Melo - (Vanderbilt University)
 
 proposal: /assets/pdfs/Jethro-Gaglione.pdf
+finalreport: /assets/pdfs/GaglioneMelo_MLTFCloseout-1.pdf
 presentations:
   - title: "Machine Learning Training Facility at Vanderbilt"
     date: "April 8, 2024"
